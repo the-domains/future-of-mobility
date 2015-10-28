@@ -1,0 +1,23 @@
+name: Future of Mobility
+favicon: null
+layout_spectrum: 0.2796879771631211
+typography_spectrum: 0.39820502302609384
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.24850713228806853
+  lightness: 0.33927434403449297
+  saturation: 0.28269182308577
+  rhythmicContrast: 0.42909702146425843
+purpose: []
